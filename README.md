@@ -38,6 +38,6 @@
    - [Another information](https://www.learnrazorpages.com/razor-pages/tutorial/bakery/create-model).
 
 8. What is [LINQ](https://www.tutorialsteacher.com/linq/what-is-linq)?
-   - Query Syntax
+   - [Query Syntax](https://www.tutorialsteacher.com/linq/linq-query-syntax)
    - [Method Syntax](https://www.geeksforgeeks.org/linq-method-syntax/#:~:text=In%20LINQ%2C%20Method%20Syntax%20is,method%20syntax%20at%20compile%20time.) 
     
