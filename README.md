@@ -21,10 +21,6 @@
    - [Modular](https://www.techopedia.com/definition/24771/modular) and [loosely coupled](https://www.johnhagel.com/loosely-coupled-a-term-worth-understanding/#:~:text=A%20good%20working%20definition%3A%20loosely,unanticipated%20changes%20within%20other%20modules.)
    - Easily tested with [automated tests](https://www.guru99.com/automation-testing.html). 
 
-3. Different between Website and Web Application :
-
-
-
 4. What is Framework?
     
    - A framework is a structure that you can build software on. It serves as a foundation, so you're not starting entirely from scratch. 
@@ -39,8 +35,9 @@
 
 7. What is [Entity](https://www.entityframeworktutorial.net/what-is-entityframework.aspx)?
    - Represent the things (or entities) that your application is concerned with as classes, and use instances of those as containers for individual rows of data from the database.
+   - [Another information](https://www.learnrazorpages.com/razor-pages/tutorial/bakery/create-model).
 
 8. What is [LINQ](https://www.tutorialsteacher.com/linq/what-is-linq)?
    - Query Syntax
-   - Method Syntax 
+   - [Method Syntax](https://www.geeksforgeeks.org/linq-method-syntax/#:~:text=In%20LINQ%2C%20Method%20Syntax%20is,method%20syntax%20at%20compile%20time.) 
     
