@@ -1,6 +1,8 @@
 ## Introduction
 
-[Powerpoint Slide](https://docs.google.com/presentation/d/1AwjVX-ncVk4nNB6a2y0ToyfBSukYYU6y/edit?usp=share_link&ouid=114957755804422263009&rtpof=true&sd=true)
+- [Powerpoint Slide](https://docs.google.com/presentation/d/1AwjVX-ncVk4nNB6a2y0ToyfBSukYYU6y/edit?usp=share_link&ouid=114957755804422263009&rtpof=true&sd=true)
+- [.Net 5 RazorPage](https://github.com/muhamaddarulhadi/RazorPage) 
+
 ***
 
 1. What is Web Application?
