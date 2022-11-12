@@ -1,7 +1,5 @@
 ## Introduction
 
-***
-
 1. What is Web Application?
     
    - A program. 
