@@ -10,7 +10,7 @@
             - Example of CSS Framework :
                 - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
                 - [Tailwind](https://tailwindcss.com/docs/installation) 
-        - [Javascript]([https://www.w3schools.com/js/js_intro.asp](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript))
+        - [Javascript](https://www.semrush.com/blog/javascript/?kw=&cmp=AA_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=622459218633&kwid=dsa-1753200738893&cmpid=18361936995&agpid=141795410375&BU=Core&extid=60162920499&adpos=)
 
 2. Characteristics of Web Application :
     
