@@ -5,6 +5,34 @@
 
 ***
 
+#### Microsoft Documentation
+
+1. What is Dotnet?
+   - [Info 1](https://dotnet.microsoft.com/en-us/)
+   - [Info 2](https://dotnet.microsoft.com/en-us/apps/aspnet)
+
+2. Language C#
+
+   - [Info 1](https://dotnet.microsoft.com/en-us/languages/csharp)
+   - [Info 2](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+3. Learn to code
+
+   - [Info 1](https://dotnet.microsoft.com/en-us/learntocode)
+   - [Info 2](https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-6.0&tabs=windows)
+   - [Info 3](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-6.0&tabs=visual-studio-code)
+
+4. Hosting
+
+   - [Info 1](https://learn.microsoft.com/en-us/dotnet/azure/)
+   - [Info 2](https://dotnet.microsoft.com/en-us/apps/aspnet/hosting)
+   - [Info 3](https://www.cloudclusters.io/cloud/aspnetclusters/)
+   - [Info 4](https://www.everleap.com/cloud-hosting/solutions/asp.net-core-hosting/)
+   - [Info 5](https://www.iwhost.com/)
+   - [Info 6](https://dotnet.microsoft.com/en-us/apps/cloud)
+
+***
+
 1. What is Web Application?
     
    - A program. 
