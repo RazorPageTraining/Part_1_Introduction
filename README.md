@@ -2,6 +2,7 @@
 
 - [Powerpoint Slide](https://docs.google.com/presentation/d/1TMAes5KmHPJsn9W-os-a0Pf5RfSFfU3w/edit?usp=share_link&ouid=114957755804422263009&rtpof=true&sd=true)
 - [.Net 5 RazorPage](https://github.com/muhamaddarulhadi/RazorPage) ***(Example)***
+- For this training, we gonna use .Net 6 and not .Net 5
 
 ***
 
