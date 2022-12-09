@@ -55,37 +55,37 @@
    - Easily tested with [automated tests](https://www.guru99.com/automation-testing.html). 
 
 
-4. What is Framework?
+3. What is Framework?
     
    - A framework is a structure that you can build software on. It serves as a foundation, so you're not starting entirely from scratch. 
    - Frameworks are typically associated with a specific programming language and are suited to different types of tasks.
 
 
-5. What is [Development Framework](https://community.spiceworks.com/topic/2454847-what-is-a-development-framework-why-use-a-development-framework)?
+4. What is [Development Framework](https://community.spiceworks.com/topic/2454847-what-is-a-development-framework-why-use-a-development-framework)?
    - Example :
         - [Laravel](https://laravel.com/)
         - [RazorPage](https://www.learnrazorpages.com/)
 
-6. What is [CRUD](https://www.sumologic.com/glossary/crud/#:~:text=CRUD%20Meaning%3A%20CRUD%20is%20an,%2C%20read%2C%20update%20and%20delete.)?
+5. What is [CRUD](https://www.sumologic.com/glossary/crud/#:~:text=CRUD%20Meaning%3A%20CRUD%20is%20an,%2C%20read%2C%20update%20and%20delete.)?
 
 
-7. What is [Entity](https://www.entityframeworktutorial.net/what-is-entityframework.aspx)?
+6. What is [Entity](https://www.entityframeworktutorial.net/what-is-entityframework.aspx)?
    - Represent the things (or entities) that your application is concerned with as classes, and use instances of those as containers for individual rows of data from the database.
    - [Another information](https://www.learnrazorpages.com/razor-pages/tutorial/bakery/create-model).
 
 
-8. What is [LINQ](https://www.tutorialsteacher.com/linq/what-is-linq)?
+7. What is [LINQ](https://www.tutorialsteacher.com/linq/what-is-linq)?
    - [Query Syntax](https://www.tutorialsteacher.com/linq/linq-query-syntax)
    - [Method Syntax](https://www.geeksforgeeks.org/linq-method-syntax/#:~:text=In%20LINQ%2C%20Method%20Syntax%20is,method%20syntax%20at%20compile%20time.) 
 
 
-9. Learn to code
+8. Learn to code
    - [W3schools](https://www.w3schools.com)
    - [Javatpoint](https://www.javatpoint.com/)
    - [Getbootstrap](https://getbootstrap.com/)
    - [Guru99](https://www.guru99.com/)
 
 
-10. References
+9. References
     - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
 
