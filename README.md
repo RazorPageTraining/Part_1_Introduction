@@ -85,5 +85,5 @@
    - [Guru99](https://www.guru99.com/)
     
 10. References :
-   - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
+    - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
 
