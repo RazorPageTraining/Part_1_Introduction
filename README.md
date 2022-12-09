@@ -78,3 +78,6 @@
    - [Query Syntax](https://www.tutorialsteacher.com/linq/linq-query-syntax)
    - [Method Syntax](https://www.geeksforgeeks.org/linq-method-syntax/#:~:text=In%20LINQ%2C%20Method%20Syntax%20is,method%20syntax%20at%20compile%20time.) 
     
+    
+9. References :
+   - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
