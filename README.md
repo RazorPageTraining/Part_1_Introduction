@@ -4,6 +4,12 @@
 - [.Net 5 RazorPage](https://github.com/muhamaddarulhadi/RazorPage) ***(Example)***
 - For this training, we gonna use .Net 6 and not .Net 5
 
+| No. | Title |
+|-----|-------|
+| 1. | [Installation](https://github.com/RazorPageTraining/Part_2_Installation) |
+| 2. | [Identity](https://github.com/RazorPageTraining/Part_3_Identity) |
+| 3. | [CRUD](https://github.com/RazorPageTraining/Part_4_CRUD) |
+
 ***
 
 #### Different between .Net Core and Asp .Net Core
