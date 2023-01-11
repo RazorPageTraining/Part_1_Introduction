@@ -89,4 +89,5 @@
 
 9. References
     - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
+    - [ASP Snippets search RazorPage](https://www.aspsnippets.com/Search.aspx?q=razor)
 
