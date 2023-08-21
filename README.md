@@ -111,3 +111,13 @@
     - [Collection of RazorPages article](https://www.mikesdotnetting.com/category/37/razor-pages)
     - [ASP Snippets search RazorPage](https://www.aspsnippets.com/Search.aspx?q=razor)
 
+
+***
+
+.Net Core Migrations
+
+1. https://www.codeproject.com/Questions/1258979/How-do-I-take-migration-without-losing-any-data-af
+2. https://stackoverflow.com/questions/23269198/ef6-code-first-update-database-without-deleting-data
+
+
+
