@@ -119,5 +119,10 @@
 1. https://www.codeproject.com/Questions/1258979/How-do-I-take-migration-without-losing-any-data-af
 2. https://stackoverflow.com/questions/23269198/ef6-code-first-update-database-without-deleting-data
 
+***
 
+Other Information
+
+1. https://www.learnrazorpages.com/razor-pages/validation
+2. https://softwareparticles.com/server-client-side-validations-in-mvc-views-and-razor-pages/
 
