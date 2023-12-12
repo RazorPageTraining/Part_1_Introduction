@@ -125,4 +125,5 @@ Other Information
 
 1. https://www.learnrazorpages.com/razor-pages/validation
 2. https://softwareparticles.com/server-client-side-validations-in-mvc-views-and-razor-pages/
+3. https://www.learnrazorpages.com/razor-pages/forms/checkboxes
 
